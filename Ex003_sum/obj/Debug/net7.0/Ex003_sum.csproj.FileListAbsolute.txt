@@ -1,0 +1,15 @@
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\bin\Debug\net7.0\Ex003_sum.exe
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\bin\Debug\net7.0\Ex003_sum.deps.json
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\bin\Debug\net7.0\Ex003_sum.runtimeconfig.json
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\bin\Debug\net7.0\Ex003_sum.dll
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\bin\Debug\net7.0\Ex003_sum.pdb
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\obj\Debug\net7.0\Ex003_sum.csproj.AssemblyReference.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\obj\Debug\net7.0\Ex003_sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\obj\Debug\net7.0\Ex003_sum.AssemblyInfoInputs.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\obj\Debug\net7.0\Ex003_sum.AssemblyInfo.cs
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\obj\Debug\net7.0\Ex003_sum.csproj.CoreCompileInputs.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\obj\Debug\net7.0\Ex003_sum.dll
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\obj\Debug\net7.0\refint\Ex003_sum.dll
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\obj\Debug\net7.0\Ex003_sum.pdb
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\obj\Debug\net7.0\Ex003_sum.genruntimeconfig.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex003_sum\obj\Debug\net7.0\ref\Ex003_sum.dll
