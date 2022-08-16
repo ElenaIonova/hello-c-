@@ -1,0 +1,15 @@
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\bin\Debug\net7.0\EX001_Hello.exe
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\bin\Debug\net7.0\EX001_Hello.deps.json
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\bin\Debug\net7.0\EX001_Hello.runtimeconfig.json
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\bin\Debug\net7.0\EX001_Hello.dll
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\bin\Debug\net7.0\EX001_Hello.pdb
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\obj\Debug\net7.0\EX001_Hello.csproj.AssemblyReference.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\obj\Debug\net7.0\EX001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\obj\Debug\net7.0\EX001_Hello.AssemblyInfoInputs.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\obj\Debug\net7.0\EX001_Hello.AssemblyInfo.cs
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\obj\Debug\net7.0\EX001_Hello.csproj.CoreCompileInputs.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\obj\Debug\net7.0\EX001_Hello.dll
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\obj\Debug\net7.0\refint\EX001_Hello.dll
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\obj\Debug\net7.0\EX001_Hello.pdb
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\obj\Debug\net7.0\EX001_Hello.genruntimeconfig.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\EX001_Hello\obj\Debug\net7.0\ref\EX001_Hello.dll
