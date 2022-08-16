@@ -1,0 +1,15 @@
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\obj\Debug\net7.0\Ex005_IfElse.csproj.AssemblyReference.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\obj\Debug\net7.0\Ex005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\obj\Debug\net7.0\Ex005_IfElse.AssemblyInfoInputs.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\obj\Debug\net7.0\Ex005_IfElse.AssemblyInfo.cs
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\obj\Debug\net7.0\Ex005_IfElse.csproj.CoreCompileInputs.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\bin\Debug\net7.0\Ex005_IfElse.exe
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\bin\Debug\net7.0\Ex005_IfElse.deps.json
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\bin\Debug\net7.0\Ex005_IfElse.runtimeconfig.json
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\bin\Debug\net7.0\Ex005_IfElse.dll
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\bin\Debug\net7.0\Ex005_IfElse.pdb
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\obj\Debug\net7.0\Ex005_IfElse.dll
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\obj\Debug\net7.0\refint\Ex005_IfElse.dll
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\obj\Debug\net7.0\Ex005_IfElse.pdb
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\obj\Debug\net7.0\Ex005_IfElse.genruntimeconfig.cache
+E:\обучение\4. Знакомство с языками программирования\lecture1\Ex_\Ex005_IfElse\obj\Debug\net7.0\ref\Ex005_IfElse.dll
